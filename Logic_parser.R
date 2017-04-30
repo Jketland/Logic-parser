@@ -6,7 +6,7 @@
 ## (x = 0)
 ## ((Sx + y) = (x + Sy))
 ## (P > (Q > P))
-## ((x * (Sy) = ((x * y) + x))
+## ((x * Sy) = ((x * y) + x))
 ## etc.
 ## It also graphically plots the resulting parsing tree.
 
